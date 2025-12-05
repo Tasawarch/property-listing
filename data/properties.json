@@ -1,0 +1,405 @@
+[
+  {
+    "id": 1,
+    "title": "Luxury Apartment",
+    "city": "Dubai",
+    "area": "Jumeirah Beach Residence",
+    "plotSize": "1000 sqft",
+    "price": 250000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "status": "Available",
+    "featured": true,
+    "description": "Luxury apartment with sea view and modern amenities.",
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Modern Villa",
+    "city": "Dubai",
+    "area": "Palm Jumeirah",
+    "plotSize": "2000 sqft",
+    "price": 450000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "status": "Available",
+    "featured": true,
+    "description": "Spacious villa with private pool and garden.",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0d",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0e"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Cozy Studio",
+    "city": "Sharjah",
+    "area": "Al Majaz",
+    "plotSize": "500 sqft",
+    "price": 120000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "status": "Available",
+    "featured": false,
+    "description": "Compact studio ideal for singles or couples.",
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Urban Flat",
+    "city": "Dubai",
+    "area": "Downtown",
+    "plotSize": "800 sqft",
+    "price": 200000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "status": "Available",
+    "featured": false,
+    "description": "Modern flat in the heart of the city.",
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Family House",
+    "city": "Abu Dhabi",
+    "area": "Al Raha Gardens",
+    "plotSize": "1500 sqft",
+    "price": 350000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "status": "Available",
+    "featured": true,
+    "description": "Perfect family home with garden and garage.",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Beachside Bungalow",
+    "city": "Dubai",
+    "area": "Jumeirah",
+    "plotSize": "2500 sqft",
+    "price": 500000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "status": "Available",
+    "featured": true,
+    "description": "Bungalow with private beach access.",
+    "images": [
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Penthouse Suite",
+    "city": "Dubai",
+    "area": "Business Bay",
+    "plotSize": "3000 sqft",
+    "price": 800000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "status": "Available",
+    "featured": true,
+    "description": "Luxurious penthouse with skyline view.",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0d"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Suburban Home",
+    "city": "Sharjah",
+    "area": "Al Nahda",
+    "plotSize": "1200 sqft",
+    "price": 300000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "status": "Available",
+    "featured": false,
+    "description": "Comfortable home in a quiet neighborhood.",
+    "images": [
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Downtown Loft",
+    "city": "Dubai",
+    "area": "Downtown",
+    "plotSize": "850 sqft",
+    "price": 220000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "status": "Available",
+    "featured": false,
+    "description": "Stylish loft near city center.",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0e"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Country Cottage",
+    "city": "Abu Dhabi",
+    "area": "Al Raha Beach",
+    "plotSize": "1100 sqft",
+    "price": 180000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "status": "Available",
+    "featured": false,
+    "description": "Cozy cottage in a peaceful area.",
+    "images": [
+      "https://images.unsplash.com/photo-1464316325666-63beaf639dbb",
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Mountain Cabin",
+    "city": "Sharjah",
+    "area": "Al Dhaid",
+    "plotSize": "900 sqft",
+    "price": 270000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "status": "Available",
+    "featured": false,
+    "description": "Cabin with mountain view and cozy interiors.",
+    "images": [
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Luxury Condo",
+    "city": "Dubai",
+    "area": "Dubai Marina",
+    "plotSize": "1300 sqft",
+    "price": 400000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "status": "Available",
+    "featured": true,
+    "description": "Modern condo with sea view and amenities.",
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Historic Townhouse",
+    "city": "Abu Dhabi",
+    "area": "Al Maryah Island",
+    "plotSize": "1400 sqft",
+    "price": 350000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "status": "Available",
+    "featured": true,
+    "description": "Beautifully restored historic townhouse.",
+    "images": [
+      "https://images.unsplash.com/photo-1536376072261-38c75010e6c9",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0e"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Modern Duplex",
+    "city": "Dubai",
+    "area": "Jumeirah Village Circle",
+    "plotSize": "1600 sqft",
+    "price": 330000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "status": "Available",
+    "featured": false,
+    "description": "Stylish duplex with contemporary design.",
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+      
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Eco-friendly Home",
+    "city": "Sharjah",
+    "area": "Al Khan",
+    "plotSize": "1200 sqft",
+    "price": 290000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "status": "Available",
+    "featured": true,
+    "description": "Sustainable home with green technology.",
+    "images": [
+      "https://images.unsplash.com/photo-1580584126903-c17d41830450",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Luxury Mansion",
+    "city": "Dubai",
+    "area": "Emirates Hills",
+    "plotSize": "4000 sqft",
+    "price": 1200000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "status": "Available",
+    "featured": true,
+    "description": "Grand mansion with private pool and garden.",
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Urban Studio",
+    "city": "Dubai",
+    "area": "Business Bay",
+    "plotSize": "600 sqft",
+    "price": 150000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "status": "Available",
+    "featured": false,
+    "description": "Compact studio apartment ideal for young professionals.",
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Countryside Villa",
+    "city": "Abu Dhabi",
+    "area": "Al Ain",
+    "plotSize": "2200 sqft",
+    "price": 550000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "status": "Available",
+    "featured": true,
+    "description": "Villa surrounded by nature with private garden.",
+    "images": [
+     "https://images.unsplash.com/photo-1501183638710-841dd1904471",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Riverside Cottage",
+    "city": "Sharjah",
+    "area": "Al Majaz",
+    "plotSize": "1300 sqft",
+    "price": 320000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "status": "Available",
+    "featured": false,
+    "description": "Cottage with river view and cozy interiors.",
+    "images": [
+      "https://images.unsplash.com/photo-1464316325666-63beaf639dbb",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Skyline Apartment",
+    "city": "Dubai",
+    "area": "Downtown",
+    "plotSize": "1800 sqft",
+    "price": 600000,
+    "currency": "AED",
+    "type": "Residential",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "status": "Available",
+    "featured": true,
+    "description": "Apartment with amazing skyline views.",
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6"
+    ]
+  }
+]
+

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "dubai",
+    "name": "Dubai",
+    "description": "Dubai is a global city known for luxury living, skyscrapers, business hubs, and modern communities.",
+    "coordinates": [25.276987, 55.296249],
+    "image": "https://images.pexels.com/photos/3787839/pexels-photo-3787839.jpeg",
+    "subAreas": [
+      {
+        "id": "downtown-dubai",
+        "name": "Downtown Dubai",
+        "description": "Famous for Burj Khalifa, Dubai Mall, and luxurious lifestyle.",
+        "coordinates": [25.1972, 55.2744],
+        "avgResidentialPrice": 20000,
+        "avgCommercialPrice": 35000,
+        "bestFor": ["Investors", "Luxury Living"],
+        "famousLocations": ["Burj Khalifa", "Dubai Mall"],
+        "image": "https://images.pexels.com/photos/21014/pexels-photo.jpg"
+      },
+      {
+        "id": "marina",
+        "name": "Dubai Marina",
+        "description": "Known for waterfront living and skyscrapers.",
+        "coordinates": [25.0800, 55.1433],
+        "avgResidentialPrice": 18000,
+        "avgCommercialPrice": 30000,
+        "bestFor": ["Families", "Professionals"],
+        "famousLocations": ["Marina Walk", "JBR Beach"],
+        "image": "https://images.pexels.com/photos/261164/pexels-photo-261164.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "abu-dhabi",
+    "name": "Abu Dhabi",
+    "description": "Capital city known for peaceful living, cultural landmarks, and family communities.",
+    "coordinates": [24.453884, 54.377343],
+    "image": "https://images.pexels.com/photos/33636854/pexels-photo-33636854.jpeg",
+    "subAreas": [
+      {
+        "id": "yas-island",
+        "name": "Yas Island",
+        "description": "Famous for Ferrari World and entertainment attractions.",
+        "coordinates": [24.4950, 54.6075],
+        "avgResidentialPrice": 12000,
+        "avgCommercialPrice": 25000,
+        "bestFor": ["Tourists", "Families"],
+        "famousLocations": ["Ferrari World", "Yas Marina Circuit"],
+        "image": "https://images.pexels.com/photos/259950/pexels-photo-259950.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "sharjah",
+    "name": "Sharjah",
+    "description": "Budget-friendly emirate known for culture, education, and family communities.",
+    "coordinates": [25.346255, 55.420916],
+    "image": "https://images.pexels.com/photos/8319478/pexels-photo-8319478.jpeg",
+    "subAreas": [
+      {
+        "id": "al-majaz",
+        "name": "Al Majaz",
+        "description": "Popular for Al Majaz Waterfront and cultural attractions.",
+        "coordinates": [25.3291, 55.3928],
+        "avgResidentialPrice": 7000,
+        "avgCommercialPrice": 12000,
+        "bestFor": ["Families", "Students"],
+        "famousLocations": ["Al Majaz Waterfront", "Sharjah Aquarium"],
+        "image": "https://images.pexels.com/photos/8319479/pexels-photo-8319479.jpeg"
+      }
+    ]
+  }
+]

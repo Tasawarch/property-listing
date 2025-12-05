@@ -1,0 +1,169 @@
+[
+  {
+    "id": "dubai",
+    "name": "Dubai",
+    "description": "Dubai is a global city known for luxury living, skyscrapers, business hubs, and modern communities.",
+    "image": "https://images.pexels.com/photos/3787839/pexels-photo-3787839.jpeg",
+    "rating": 4.9,
+    "subAreas": [
+      {
+        "id": "downtown-dubai",
+        "name": "Downtown Dubai",
+        "description": "Home to Burj Khalifa, Dubai Mall, and the most premium properties.",
+        "avgResidentialPrice": 21000,
+        "avgCommercialPrice": 32000,
+        "counts": {
+          "schools": 8,
+          "hospitals": 4,
+          "banks": 15,
+          "universities": 2,
+          "mosques": 6,
+          "schoolsDetail": [
+            {"name": "Dubai International School", "type": "Private", "address": "Downtown"},
+            {"name": "GEMS Wellington Primary", "type": "Private", "address": "Downtown"}
+          ],
+          "hospitalsDetail": [
+            {"name": "Mediclinic City Hospital", "address": "Downtown"},
+            {"name": "Dubai Hospital", "address": "Downtown"}
+          ]
+        },
+        "bestFor": ["Investors", "Luxury Living", "High-End Rentals"],
+        "famousLocations": ["Burj Khalifa", "Dubai Mall", "Dubai Fountain"],
+        "image": "https://images.pexels.com/photos/3848412/pexels-photo-3848412.jpeg"
+      },
+      {
+        "id": "dubai-marina",
+        "name": "Dubai Marina",
+        "description": "A waterfront community famous for skyscrapers, nightlife, and beach access.",
+        "avgResidentialPrice": 19000,
+        "avgCommercialPrice": 27000,
+        "counts": {
+          "schools": 5,
+          "hospitals": 3,
+          "banks": 10,
+          "universities": 1,
+          "mosques": 5,
+          "schoolsDetail": [
+            {"name": "Dubai British School", "type": "Private", "address": "Marina"}
+          ],
+          "hospitalsDetail": [
+            {"name": "Mediclinic Parkview", "address": "Marina"}
+          ]
+        },
+        "bestFor": ["Expats", "Young Professionals"],
+        "famousLocations": ["Marina Walk", "JBR Beach", "Ain Dubai"],
+        "image": "https://images.pexels.com/photos/35063026/pexels-photo-35063026.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "abu-dhabi",
+    "name": "Abu Dhabi",
+    "description": "Capital city known for peaceful living, cultural landmarks, and family communities.",
+    "image": "https://images.pexels.com/photos/33636854/pexels-photo-33636854.jpeg",
+    "rating": 4.7,
+    "subAreas": [
+      {
+        "id": "yas-island",
+        "name": "Yas Island",
+        "description": "Entertainment hub famous for Ferrari World and Yas Mall.",
+        "avgResidentialPrice": 14000,
+        "avgCommercialPrice": 21000,
+        "counts": {
+          "schools": 6,
+          "hospitals": 3,
+          "banks": 8,
+          "universities": 1,
+          "mosques": 4,
+          "schoolsDetail": [
+            {"name": "Abu Dhabi International School", "type": "Private", "address": "Yas Island"}
+          ],
+          "hospitalsDetail": [
+            {"name": "Cleveland Clinic Abu Dhabi", "address": "Al Maryah Island"}
+          ]
+        },
+        "bestFor": ["Families", "Investors"],
+        "famousLocations": ["Yas Mall", "Ferrari World", "Yas Waterworld"],
+        "image": "https://images.pexels.com/photos/30070538/pexels-photo-30070538.jpeg"
+      },
+      {
+        "id": "al-reef",
+        "name": "Al Reef",
+        "description": "Affordable family community close to the airport.",
+        "avgResidentialPrice": 9000,
+        "avgCommercialPrice": 14000,
+        "counts": {
+          "schools": 10,
+          "hospitals": 3,
+          "banks": 4,
+          "universities": 0,
+          "mosques": 10,
+          "schoolsDetail": [
+            {"name": "Al Reef School", "type": "Public", "address": "Al Reef"}
+          ],
+          "hospitalsDetail": [
+            {"name": "Al Reef Hospital", "address": "Al Reef"}
+          ]
+        },
+        "bestFor": ["Budget Families"],
+        "famousLocations": ["Al Reef Downtown", "Parks"],
+        "image": "https://images.pexels.com/photos/3629227/pexels-photo-3629227.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "sharjah",
+    "name": "Sharjah",
+    "description": "Budget-friendly emirate known for culture, education, and family communities.",
+    "image": "https://images.pexels.com/photos/8319478/pexels-photo-8319478.jpeg",
+    "rating": 4.6,
+    "subAreas": [
+      {
+        "id": "al-majaz",
+        "name": "Al Majaz",
+        "description": "Lakeside community known for Al Majaz Waterfront.",
+        "avgResidentialPrice": 7000,
+        "avgCommercialPrice": 11000,
+        "counts": {
+          "schools": 9,
+          "hospitals": 3,
+          "banks": 12,
+          "universities": 1,
+          "mosques": 15,
+          "schoolsDetail": [
+            {"name": "Sharjah American International School", "type": "Private", "address": "Al Majaz"}
+          ],
+          "hospitalsDetail": [
+            {"name": "Al Qassimi Hospital", "address": "Al Majaz"}
+          ]
+        },
+        "bestFor": ["Families", "Students"],
+        "famousLocations": ["Al Majaz Waterfront", "Parks"],
+        "image": "https://images.pexels.com/photos/12719204/pexels-photo-12719204.jpeg"
+      },
+      {
+        "id": "al-nahda",
+        "name": "Al Nahda",
+        "description": "Most popular area among expats near Dubai border.",
+        "avgResidentialPrice": 6500,
+        "avgCommercialPrice": 10000,
+        "counts": {
+          "schools": 15,
+          "hospitals": 4,
+          "banks": 10,
+          "universities": 0,
+          "mosques": 18,
+          "schoolsDetail": [
+            {"name": "Al Nahda School", "type": "Public", "address": "Al Nahda"}
+          ],
+          "hospitalsDetail": [
+            {"name": "Al Zahra Hospital", "address": "Al Nahda"}
+          ]
+        },
+        "bestFor": ["Expats", "Budget Renters"],
+        "famousLocations": ["Safeer Mall", "Al Nahda Park"],
+        "image": "https://images.pexels.com/photos/3816901/pexels-photo-3816901.jpeg"
+      }
+    ]
+  }
+]
